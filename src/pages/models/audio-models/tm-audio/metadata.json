@@ -1,0 +1,27 @@
+{
+  "modelName": "TMv2",
+  "tfjsSpeechCommandsVersion": "0.4.0",
+  "timeStamp": "2023-09-30T04:30:32.395Z",
+  "wordLabels": [
+    "_background_noise_",
+    "_unknown_",
+    "down",
+    "eight",
+    "five",
+    "four",
+    "go",
+    "left",
+    "nine",
+    "no",
+    "one",
+    "right",
+    "seven",
+    "six",
+    "stop",
+    "three",
+    "two",
+    "up",
+    "yes",
+    "zero"
+  ]
+}

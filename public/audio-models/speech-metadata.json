@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "trainingData": "MNIST",
+  "accuracy": 0.95,
+  "labels": [
+    {
+      "id": null,
+      "className": "Noise",
+      "imagePath": "/images/background_noise.jpeg",
+      "buttonLabel": "Record Sasdasdpeechs"
+    },
+    {
+      "id": 1,
+      "className": "হ্যাঁ ",
+      "imagePath": "/images/yes.png",
+      "buttonLabel": "Record Speecasdasdash"
+    },
+    {
+      "id": 2,
+      "className": "না",
+      "imagePath": "/images/no.png",
+      "buttonLabel": "Record Sasdasdadpeech"
+    },
+    {
+      "id": 3,
+      "className": "হাই ",
+      "imagePath": "/images/hi.png",
+      "buttonLabel": "Recoasdasdrd Speech"
+    },
+    {
+      "id": 4,
+      "className": "হ্যলো ",
+      "imagePath": "/images/hello.png",
+      "buttonLabel": "Recoasdasdrd Speech"
+    },
+    {
+      "id": 5,
+      "className": "আমি তোমাকে ভালোবাসি ",
+      "imagePath": "/images/love.png",
+      "buttonLabel": "Recordasdasd Speech"
+    }
+  ]
+}
